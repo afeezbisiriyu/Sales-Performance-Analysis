@@ -6,7 +6,7 @@ This project was born out of a classic retail challenge: Just-Store is growing f
 To solve this, I built an interactive, end-to-end management dashboard in Tableau Public. The goal wasn't just to make pretty charts, but to create a single, reliable workspace that exposes hidden profit drains, highlights regional performance gaps, and maps out predictable sales cycles so the management team can make proactive, data-backed decisions.
 
 ## Interactive Dashboard Preview
-![Sales Performance](images\dashboardImage.png)
+![Sales Performance](images/dashboardImage.png)
 ### Fig. 1: Sales Performance
 
 ## Live Dashboard Link
@@ -22,7 +22,7 @@ Looking at the business requirements, the company was hitting a few major roadbl
 - Predictability Hurdles: A lack of clear historical trend tracking made it difficult for the supply chain and marketing teams to plan for seasonal spikes.
 
 ## Inside the Dashboard: Design & Features
-I designed the dashboard using a clean, professional sage-green palette—ensuring the layout is scannable for an executive user.
+I designed the dashboard using a clean, professional sage-green palette ensuring the layout is scannable for an executive user.
 
 ### Project Structure
 ├── data/
@@ -51,7 +51,7 @@ The Issue: The Furniture category is a massive revenue driver, pulling in $59,21
 The Fix: The dashboard clearly shows that Furniture has a cost or discounting problem. Management needs to immediately re-evaluate shipping fees, supplier costs, or promotional strategies for this category.
 
 2 The West Coast Engine
-The Issue: The West region is absolutely carrying the business, generating $107,483 in sales—more than the East, South, and Central regions combined.
+The Issue: The West region is absolutely carrying the business, generating $107,483 in sales more than the East, South, and Central regions combined.
 
 The Fix: We need to figure out what the West team is doing right and duplicate that playbook in the underpenetrated Central ($14,007) and South ($17,309) regions.
 
