@@ -6,7 +6,7 @@ This project was born out of a classic retail challenge: Just-Store is growing f
 To solve this, I built an interactive, end-to-end management dashboard in Tableau Public. The goal wasn't just to make pretty charts, but to create a single, reliable workspace that exposes hidden profit drains, highlights regional performance gaps, and maps out predictable sales cycles so the management team can make proactive, data-backed decisions.
 
 ## Interactive Dashboard Preview
-![Sales Performance](just-stores-sales-performance\images\dashboardImage.png)
+![Sales Performance](images\dashboardImage.png)
 ### Fig. 1: Sales Performance
 
 ## Live Dashboard Link
@@ -26,9 +26,11 @@ I designed the dashboard using a clean, professional sage-green palette—ensuri
 
 ### Project Structure
 ├── data/
-│   └── [Insert your dataset filename here]
+│   └── dataset
+
 ├── images/
 │   └── Dashboard_Snapshot.png
+
 └── README.md
 
 ## What I Built:
