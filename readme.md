@@ -26,9 +26,11 @@ I designed the dashboard using a clean, professional sage-green palette—ensuri
 
 ### Project Structure
 ├── data/
+
 │   └── dataset
 
 ├── images/
+
 │   └── Dashboard_Snapshot.png
 
 └── README.md
@@ -43,17 +45,17 @@ I designed the dashboard using a clean, professional sage-green palette—ensuri
 ## Real Insights That Impact the Bottom Line
 Through the building phase and visual analysis of the dashboard in Fig. 1, I uncovered three major operational insights:
 
-1. The Furniture Margin Trap
+1 The Furniture Margin Trap
 The Issue: The Furniture category is a massive revenue driver, pulling in $59,219 (roughly a third of all sales). However, it only brought in a tiny $2,341 in actual profit. Compare that to Technology, which brought in $72,708 in sales but kept a massive $13,997 in profit.
 
 The Fix: The dashboard clearly shows that Furniture has a cost or discounting problem. Management needs to immediately re-evaluate shipping fees, supplier costs, or promotional strategies for this category.
 
-2. The West Coast Engine
+2 The West Coast Engine
 The Issue: The West region is absolutely carrying the business, generating $107,483 in sales—more than the East, South, and Central regions combined.
 
 The Fix: We need to figure out what the West team is doing right and duplicate that playbook in the underpenetrated Central ($14,007) and South ($17,309) regions.
 
-3. High-Definition Seasonality
+3 High-Definition Seasonality
 The Issue: Sales are not random, they follow a strict cyclical pattern. Demand explodes in September ($29,485) and peaks again in December ($25,639), with noticeable slumps in spring and early summer.
 
 The Fix: Armed with this data, the operations team can optimize inventory levels, ramping up stock and marketing spend 30 to 60 days before the September and December rushes to avoid stockouts and capture every bit of revenue.
