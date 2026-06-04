@@ -9,9 +9,6 @@ To solve this, I built an interactive, end-to-end management dashboard in Tablea
 ![Sales Performance](images/dashboardImage.png)
 ### Fig. 1: Sales Performance
 
-## Live Dashboard Link
-Explore the Interactive Workbook: https://public.tableau.com/views/Just-StoreDashboard_17803956490720/ExecutiveView?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
 ## The Core Business Problems | Tackled
 Looking at the business requirements, the company was hitting a few major roadblocks:
 
@@ -63,3 +60,6 @@ The Fix: Armed with this data, the operations team can optimize inventory levels
 ## Tools Used
 - BI & Visualisation: Tableau Public
 - Framework: Business Intelligence & Executive Reporting Standards
+
+## Live Dashboard Link
+Explore the Interactive Workbook: https://public.tableau.com/views/Just-StoreDashboard_17803956490720/ExecutiveView?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
