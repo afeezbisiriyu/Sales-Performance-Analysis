@@ -1,6 +1,6 @@
 # JUST-STORE
 ### Sales Performance & Profitability Analysis - An Interactive Executive Dashboard
-
+![Just-StoreExecutiveDashboard](images/dynamic-data-visualization-3d.jpg)
 **Disclaimer ⚠️:** All datasets and figures in this project are dummy data, designed to demonstrate the ability to build an end-to-end business intelligence dashboard, not real proprietary, confidential, or sensitive information from any company, institution, or individual.
 
 ---
