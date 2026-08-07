@@ -1,5 +1,5 @@
 # JUST-STORE
-### Sales Performance & Profitability Analysis — An Interactive Executive Dashboard
+### Sales Performance & Profitability Analysis - An Interactive Executive Dashboard
 
 **Disclaimer ⚠️:** All datasets and figures in this project are dummy data, designed to demonstrate the ability to build an end-to-end business intelligence dashboard, not real proprietary, confidential, or sensitive information from any company, institution, or individual.
 
@@ -50,7 +50,7 @@ The dashboard was designed using a clean, professional sage-green palette, with 
 
 ## VISUALISATION
 
-![Just-StoreExecutiveDashboard](images/Dashboard.png)
+![Just-StoreExecutiveDashboard](images/dashboardImage.png)
 *Sales Performance - Executive View, showing KPI summary, sales by region, sales distribution by category, sales and profit by category, and sales trend over time.*
 
 The dashboard combines five views in a single screen: a KPI header, a regional sales bar chart, a category distribution pie chart, a side-by-side sales-vs-profit comparison by category, and a full-year sales trend line, all filterable by Year and Region from a persistent sidebar.
